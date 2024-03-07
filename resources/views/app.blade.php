@@ -17,9 +17,6 @@
         @inertiaHead
     </head>
     <body class="font-sans antialiased">
-    <li>
-    <a href="{{ url('laravel-filemanager') }}">File Manager</a>
-</li>
 
         @inertia
     </body>
